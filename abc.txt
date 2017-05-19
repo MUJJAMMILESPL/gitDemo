@@ -1,5 +1,6 @@
-class abc {
-	system.debug(''hello world');
+class Demo {
+	system.debug(''hello world !!!');
 	system.debbug('staging change
 	s');
+	system.debug("git conflict line");
 }
