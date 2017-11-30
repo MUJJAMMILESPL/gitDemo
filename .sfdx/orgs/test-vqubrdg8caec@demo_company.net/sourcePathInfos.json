@@ -1,8 +1,8 @@
 [
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app",
+        "f:\\SFDX\\Projects\\geolocation\\force-app",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510995770547,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510995770547,
@@ -30,9 +30,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998249797,
@@ -43,9 +43,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998482268,
@@ -57,9 +57,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation",
+        "f:\\SFDX\\Projects\\geolocation",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510997016392,
@@ -71,9 +71,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
             "size": 403,
             "modifiedTime": 1510996444277,
@@ -84,9 +84,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9756,
             "modifiedTime": 1510996444296,
@@ -97,9 +97,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9708,
             "modifiedTime": 1510996444316,
@@ -110,9 +110,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9756,
             "modifiedTime": 1510996444332,
@@ -123,9 +123,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9708,
             "modifiedTime": 1510996444346,
@@ -136,9 +136,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "size": 17142,
             "modifiedTime": 1510997776793,
@@ -149,9 +149,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 4797,
             "modifiedTime": 1510997776807,
@@ -162,9 +162,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 4457,
             "modifiedTime": 1510997776823,
@@ -175,9 +175,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 4461,
             "modifiedTime": 1510997776833,
@@ -188,22 +188,22 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1510999076630,
             "changeTime": 1510999076630,
-            "contentHash": "a4d82e7c6f96dd7a8a14a17382d9e937aea8287c"
+            "contentHash": "a4d82e7c6f96dd7a8a14a17382d9e937aea8287c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510996444271,
@@ -214,9 +214,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510996444269,
@@ -227,9 +227,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510996444269,
@@ -240,9 +240,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510996444341,
@@ -253,9 +253,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510996444408,
@@ -266,9 +266,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510996444412,
@@ -279,9 +279,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510997331250,
@@ -292,9 +292,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
             "size": 302,
             "modifiedTime": 1510997470634,
@@ -305,9 +305,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
             "size": 195,
             "modifiedTime": 1510997331255,
@@ -318,9 +318,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510997510174,
@@ -331,9 +331,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
             "size": 179,
             "modifiedTime": 1510998401545,
@@ -344,9 +344,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
             "size": 246,
             "modifiedTime": 1510997510154,
@@ -357,9 +357,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
             "size": 118,
             "modifiedTime": 1510997602176,
@@ -370,9 +370,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
             "size": 65,
             "modifiedTime": 1510997510161,
@@ -383,9 +383,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1510997510168,
@@ -396,9 +396,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1510997510181,
@@ -409,9 +409,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
             "size": 267,
             "modifiedTime": 1510997776719,
@@ -422,9 +422,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510997776718,
@@ -435,9 +435,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510997871645,
@@ -448,9 +448,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510997809462,
@@ -461,9 +461,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
             "size": 528,
             "modifiedTime": 1510998539724,
@@ -474,9 +474,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
             "isDirectory": false,
             "size": 243,
             "modifiedTime": 1510997871634,
@@ -487,9 +487,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
             "size": 118,
             "modifiedTime": 1510998000316,
@@ -500,9 +500,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
             "size": 400,
             "modifiedTime": 1510998602253,
@@ -513,9 +513,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1510997871639,
@@ -526,9 +526,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1510997871647,
@@ -539,9 +539,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
             "size": 123,
             "modifiedTime": 1510997831214,
@@ -552,9 +552,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
             "isDirectory": false,
             "size": 247,
             "modifiedTime": 1510997809455,
@@ -565,9 +565,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
             "isDirectory": false,
             "size": 184,
             "modifiedTime": 1510997858985,
@@ -578,9 +578,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
             "isDirectory": false,
             "size": 65,
             "modifiedTime": 1510997809457,
@@ -591,9 +591,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1510997809459,
@@ -604,9 +604,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1510997809463,
@@ -617,9 +617,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
             "size": 222,
             "modifiedTime": 1510998249800,
@@ -630,9 +630,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
             "size": 1259,
             "modifiedTime": 1510998250127,
@@ -643,9 +643,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
             "size": 696,
             "modifiedTime": 1510998250129,
@@ -656,9 +656,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
             "size": 2586,
             "modifiedTime": 1510998250130,
@@ -669,9 +669,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
             "size": 1466,
             "modifiedTime": 1510998250133,
@@ -682,9 +682,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
             "size": 618,
             "modifiedTime": 1510998250135,
@@ -695,9 +695,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
             "size": 389832,
             "modifiedTime": 1510998250196,
@@ -708,9 +708,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
             "size": 741401,
             "modifiedTime": 1510998250205,
@@ -721,9 +721,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
             "size": 14061,
             "modifiedTime": 1510998250211,
@@ -734,9 +734,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
             "size": 137208,
             "modifiedTime": 1510998250275,
@@ -747,9 +747,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
             "size": 186247,
             "modifiedTime": 1510998250283,
@@ -760,9 +760,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998250123,
@@ -773,9 +773,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998250133,
@@ -786,9 +786,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998250275,
@@ -799,9 +799,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998258030,
@@ -812,9 +812,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "size": 329,
             "modifiedTime": 1510998626851,
@@ -825,9 +825,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
             "size": 242,
             "modifiedTime": 1510998258020,
@@ -838,9 +838,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
             "size": 43,
             "modifiedTime": 1510998371631,
@@ -851,9 +851,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "size": 816,
             "modifiedTime": 1510998662433,
@@ -864,9 +864,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1510998258024,
@@ -877,9 +877,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1510998258032,
@@ -890,9 +890,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1510998482275,
@@ -903,9 +903,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
             "isDirectory": false,
             "size": 100,
             "modifiedTime": 1510998501095,
@@ -916,9 +916,9 @@
         }
     ],
     [
-        "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
         {
-            "sourcePath": "F:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "sourcePath": "f:\\SFDX\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
             "size": 242,
             "modifiedTime": 1510998482281,
